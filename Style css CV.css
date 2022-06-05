@@ -1,0 +1,22 @@
+
+.ConteneurPrincipal{ 
+	margin:auto; /* Centrer le cadre */
+	border:7px solid #040404;
+	border-radius:5px; /* Coins arrondis*/
+	width:96%;
+	background-color:white;
+	padding:10px;
+	font-family:Calibri;
+.ConteneurSecondaire{ 
+	margin:auto; /* Centrer le cadre */
+	border:7px solid #040404;
+	border-radius:5px; /* Coins arrondis*/
+	width:96%;
+	background-color:white;
+	padding:10px;
+	font-family:Calibri;
+.image{
+	padding:20px;
+	border:1px;
+	border-radius:20px;
+	text-align: center;
